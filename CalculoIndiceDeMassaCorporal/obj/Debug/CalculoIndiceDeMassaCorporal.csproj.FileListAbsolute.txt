@@ -1,0 +1,11 @@
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\bin\Debug\CalculoIndiceDeMassaCorporal.exe.config
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\bin\Debug\CalculoIndiceDeMassaCorporal.exe
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\bin\Debug\CalculoIndiceDeMassaCorporal.pdb
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\obj\Debug\CalculoIndiceDeMassaCorporal.csproj.AssemblyReference.cache
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\obj\Debug\CalculoIndiceDeMassaCorporal.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\obj\Debug\CalculoIndiceDeMassaCorporal.Form1.resources
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\obj\Debug\CalculoIndiceDeMassaCorporal.Properties.Resources.resources
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\obj\Debug\CalculoIndiceDeMassaCorporal.csproj.GenerateResource.cache
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\obj\Debug\CalculoIndiceDeMassaCorporal.csproj.CoreCompileInputs.cache
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\obj\Debug\CalculoIndiceDeMassaCorporal.exe
+D:\Visual Studio - Projetos\C#\Lista de Exercícios 2\CalculoIndiceDeMassaCorporal\obj\Debug\CalculoIndiceDeMassaCorporal.pdb
